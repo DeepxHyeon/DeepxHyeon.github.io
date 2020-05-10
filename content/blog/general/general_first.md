@@ -1,7 +1,7 @@
 ---
 title: '블로그 시작, 첫 포스팅'
 subtitle: '첫 Github 블로그 포스팅!'
-date: {{ date }}
+date: 2020-5-10 13:21:13
 category: 'General'
 draft: false
 ---
