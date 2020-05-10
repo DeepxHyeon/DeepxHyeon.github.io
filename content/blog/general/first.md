@@ -12,7 +12,7 @@ draft: false
 사실 블로그는 내가 기억하기 위해서 기록하는 거지만, 나도 다른 사람이 기록해놓은 글들을 보고 도움을 받았듯이 이 블로그를 통해 누군가에게 조금이나마 도움이 되었으면 하는 작은 바램을 갖고 있다.  
 언젠가는 그런 날이 오겠죠? 화이팅! 
 ## References
-[Gatsby-starter-bee](https://github.com/JaeYeopHan/gatsby-starter-bee%29)  
+[Gatsby-starter-bee](https://github.com/JaeYeopHan/gatsby-starter-bee)  
 [Gatsby와 GitHub Pages로 블로그 시작](https://blog.sungkwang.me/articles/2020/01/21/start-a-blog-gatsby-and-github-pages/)  
 [Gatsby로 github 블로그(github page) 구축하기](https://blog.naver.com/PostView.nhn?blogId=lyshyn&logNo=221527017383&proxyReferer=https://www.google.com/)  
 [Github Action으로 Gatsby 블로그 배포 자동화하기](https://alstn2468.github.io/Automation/2020-01-24-GatsbyGithubAction/)
