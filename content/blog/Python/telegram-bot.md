@@ -78,7 +78,7 @@ python alba_crawler.py
 ![chat](images/2020-1/04.png)   
 
 ## Review
-어제 배운 [movie_crawler](https://github.com/DeepxHyeon/movie_crawler)를 토대로 내가 불편함을 느꼈던 곳에 바로 적용해보았다. 이 정도로 정리를 해본 건 처음인데 검색하면 나오는  보기 좋게 잘 정리된 글들...정말 감사합니다. 테스트 후에 AWS로 배포까지 마쳤다. 취업하기 전까지 잘 사용해야겠다. 아쉬운 점이 있다면 택배 알바 알림이 많이 온다는 것ㅠㅠ택배는 알바라고 할 수 없다. 이 부분은 나중에 개선해봐야겠다.    
+어제 배운 [movie_crawler](https://github.com/DeepxHyeon/movie_crawler)를 토대로 내가 불편함을 느꼈던 곳에 바로 적용해보았다. 이 정도로 정리를 해본 건 처음인데 생각보다 시간이 걸린다. 하다 보면 빨리 할 수 있겠지? 검색하면 나오는 보기 좋게 정리된 글들에 감사함을 느끼게 된다. 테스트 후에는 AWS로 배포까지 마쳤다. 취업하기 전까지 잘 사용해야겠다. 아쉬운 점이 있다면 택배 알바 알림이 많이 온다는 것ㅠㅠ택배는 알바라고 할 수 없다. 이 부분은 나중에 개선해봐야겠다. 그리고 알고리즘 공부하자 ! 
 
 ## Reference   
 [웹페이지 업데이트를 알려주는 Telegram 봇](https://beomi.github.io/gb-crawling/posts/2017-04-20-HowToMakeWebCrawler-Notice-with-Telegram.html)    
