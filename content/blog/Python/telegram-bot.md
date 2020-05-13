@@ -43,7 +43,7 @@ bot.sendMessage(chat_id=1234567890, text="테스트입니다.")
 
 ### 코드   
 
-해당 페이지의 공고 중 첫 번째에 게시된 글의 제목을 가져온다.   
+해당 페이지의 공고 중 첫 번째에 게시된 글의 제목과 링크를 가져온다.   
 ```python
 html = requests.get('http://042.albamon.com/list/gi/mon_duty_list.asp?ps=50&ob=0&lvtype=1&rArea=,G000,&sDutyTerm=,5,10,20&rWDate=1&Empmnt_Type=')
 html.encoding = 'euc-kr'
@@ -79,7 +79,7 @@ python alba_crawler.py
 ![chat](images/2020-1/04.png)   
 
 ## Review
-어제 배운 [movie_crawler](https://github.com/DeepxHyeon/movie_crawler)를 토대로 내가 불편함을 느꼈던 곳에 바로 적용해보았다. 아쉬운 점이 있다면 택배 알바 알림이 많이 온다는 것ㅠㅠ이 부분은 개선해서 테스트 중이다. 블로그 포스팅 하는데 조금 걸리지만 이런 시간들도 의미 있는 일이라 생각하며 열심히 해볼테다.
+어제 배운 [movie_crawler](https://github.com/DeepxHyeon/movie_crawler)를 토대로 내가 불편함을 느꼈던 곳에 바로 적용해보았다. 아쉬운 점이 있다면 택배 알바 알림이 많이 온다는 것ㅠㅠ이 부분은 개선해서 테스트 중이다. 블로그 포스팅 하는데 조금 걸리지만 이런 시간들도 의미 있는 일이라 생각하며 열심히 해볼테다!
 
 ## Reference   
 [웹페이지 업데이트를 알려주는 Telegram 봇](https://beomi.github.io/gb-crawling/posts/2017-04-20-HowToMakeWebCrawler-Notice-with-Telegram.html)    
