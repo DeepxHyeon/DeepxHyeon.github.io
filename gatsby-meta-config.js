@@ -2,7 +2,7 @@ module.exports = {
   title: `Do-Hyeon's DevNote`,
   description: `Do-Hyeon's DevNote`,
   author: `[DeepxHyeon]`,
-  introduction: `Don't be afraid of growing slowly, be afraid only of standing still.`,
+  introduction: `A day changes you, A year changes you a lot!`,
   siteUrl: `https://deepxhyeon.github.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
