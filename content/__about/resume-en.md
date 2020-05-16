@@ -5,15 +5,16 @@ lang: 'en'
 ---
 
 # 길도현 (Do-Hyeon Gil)
+    
+![pic](content/assets/01.png)
 
 <div align="center">
-   
-![about_pic](content/assets/01.png)
+      
     
         
            
 Coming soon!   
-    
+        
 deepxhyeon@gmail.com
 
   
