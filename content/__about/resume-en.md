@@ -6,8 +6,9 @@ lang: 'en'
 
 # 길도현 (Do-Hyeon Gil)
     
-![pic](content/assets/01.png)
-
+![p](../assets/01.png)
+   
+   
 <div align="center">
       
     
