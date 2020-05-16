@@ -14,9 +14,13 @@ lang: 'en'
     
         
            
-Coming soon!   
-        
-deepxhyeon@gmail.com
+Coming soon!    
+     
+deepxhyeon@gmail.com    
+    
+     
+<sub><sup>Written by </sup><sup>@DeepxHyeon</sup></sub>
+
 
   
 
