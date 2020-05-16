@@ -8,7 +8,7 @@ lang: 'en'
 
 <div align="center">
    
-![pic](images/01.png)
+![about_pic](../assets/01.png)
         
            
 Coming soon!   
