@@ -7,7 +7,9 @@ lang: 'en'
 # 길도현 (Do-Hyeon Gil)
 
 <div align="center">
-
+   
+![Ipic](images/IMG_2739.png)    
+    
 Coming soon!   
 
 deepxhyeon@gmail.com
