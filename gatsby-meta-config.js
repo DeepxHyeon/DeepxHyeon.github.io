@@ -1,12 +1,12 @@
 module.exports = {
-  title: `Do-Hyeon's DevNote`,
-  description: `Do-Hyeon's DevNote`,
+  title: `Do-Hyeon's Portfolio`,
+  description: `Do-Hyeon's Portfolio`,
   author: `[DeepxHyeon]`,
   introduction: `A day changes you, A year changes you a lot!`,
   siteUrl: `https://deepxhyeon.github.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `deepxhyeon`, // Your GitHub account
+    github: ``, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: `deepxhyeon`, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
