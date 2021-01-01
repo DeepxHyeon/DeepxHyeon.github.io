@@ -1,6 +1,6 @@
 module.exports = {
-  title: `Do-Hyeon's Portfolio`,
-  description: `Do-Hyeon's Portfolio`,
+  title: `Do-Hyeon's Blog`,
+  description: `Do-Hyeon's Blog`,
   author: `[DeepxHyeon]`,
   introduction: `A day changes you, A year changes you a lot!`,
   siteUrl: `https://deepxhyeon.github.io`, // Your blog site url
